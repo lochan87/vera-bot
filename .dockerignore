@@ -1,0 +1,12 @@
+venv
+.venv
+.git
+.gitignore
+.env
+.env.*
+__pycache__
+*.pyc
+judge_simulator.py
+challenge-brief.md
+dataset
+*.log
